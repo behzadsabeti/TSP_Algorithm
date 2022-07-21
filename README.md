@@ -1,2 +1,2 @@
 # algorithms
-Using Python to implement some algorithms
+A few approaches to implementing the TSP algorithm 
